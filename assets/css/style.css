@@ -1,0 +1,7 @@
+.submit{
+    justify-content: flex-start!important;
+}
+.search input{
+    height: 45px;
+    width:300px;
+}
